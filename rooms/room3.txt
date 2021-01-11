@@ -1,0 +1,13 @@
+#
+# 0 E Room4.txt 2
+#
+WWWWWWWWWW
+W   k    W
+WddddddddW
+WdBddddBdW
+WddBddBddW
+WddddddddW
+WddddddddW
+W        W
+0h      MW
+WWWWWWWWWW

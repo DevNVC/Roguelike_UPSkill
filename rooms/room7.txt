@@ -1,0 +1,14 @@
+#
+# 0 O Room5.txt 1
+# 1 I Room0.txt 0
+#
+RRRRRRRRRR
+uUuUu1UuUu
+un      nu
+u  A  A  u
+up      pu
+u        u
+up      pu
+u       nu
+un     h u
+uUuUuuU0Uu

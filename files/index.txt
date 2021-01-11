@@ -1,0 +1,43 @@
+CHARACTERS
+h - Hero (damage base 1, life base 8)
+S - Skeleton (damage base 1, life base 1)
+B - Bat
+G - BadGuy
+T - Thief
+A - Tengu
+
+ROOM
+W - Wall
+H - Hole
+0,1,2,3,4 - doors/passagens
+D - DoorClosed
+E - Passagem sem porta - Doorway
+O - DoorOpen
+L - LockedDoor
+a - SpecialDoor
+t - Trap
+e - Grass
+w - Water
+d - WaterDark
+< - StairsUp
+> - StairsDown
+P - LifePot
+M - FireballPot
+Z - StairsDownCaves
+Q - StairsUpCaves
+X - FloorSpecial
+C - FloorBloody
+V - FloorSewer
+c - WallSewers
+Y - WallDecorated
+y - WallLessDecorated
+J - Barricade
+
+ITEMS
+g - GoodMeat
+k - Key
+s - Sword
+m - Hammer
+f - FireBall
+p - FireballPotion
+n - LifePotion

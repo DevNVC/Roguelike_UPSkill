@@ -1,0 +1,14 @@
+#
+# 0 Q Room2.txt 2
+#
+#
+WWWWWWcWWW
+WPM   V  W
+W        W
+WWcWWWWW W
+W V      W
+W WWcWWWWW
+WV  V   VW
+WcWW    VW
+W    V h0W
+WWWWWWWWWW

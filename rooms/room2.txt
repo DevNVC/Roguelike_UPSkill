@@ -1,0 +1,15 @@
+#
+# 0 E Room1.txt 1
+# 1 D Room4.txt 0 key
+# 2 Z Room6.txt 0
+#
+WW1WWWWWWW
+W  t   S2W
+Wee    wwW
+WeeWWwBwWW
+WgS      W
+W       SW
+W  B  WWWW
+W        W
+Wm    h  W
+WWWWWW0WWW
